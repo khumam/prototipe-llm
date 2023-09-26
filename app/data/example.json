@@ -1,0 +1,24 @@
+{
+  "QA": [
+    {
+      "Question": "What is a Thread?",
+      "Answer": "A thread is a single sequence stream within in a process."
+    },
+    {
+      "Question": "What is deadlock?",
+      "Answer": "Deadlock is a situation when two or more processes wait for each other to finish and none of them ever finish"
+    },
+    {
+      "Question": "What are the necessary conditions for deadlock?",
+      "Answer": "Mutual Exclusion, Hold and Wait, No Preemption, Circular Wait"
+    },
+    {
+      "Question": "What is Virtual Memory?",
+      "Answer": "Virtual memory creates an illusion that each user has one or more contiguous address spaces, each beginning at address zero"
+    },
+    {
+      "Question": "What is Thrashing?",
+      "Answer": "Thrashing is a situation when the performance of a computer degrades or collapses. "
+    }
+  ]
+}
